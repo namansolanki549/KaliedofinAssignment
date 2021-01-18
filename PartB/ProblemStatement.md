@@ -1,9 +1,9 @@
 1. Find the customer with the highest transaction value as of today.
 
 Consider :
-• Transaction_Status = ‘Success’
-• Transaction_Type = ‘Purchase’
-• Transaction_Value = NAV_Value * No_of_Units
+- Transaction_Status = ‘Success’
+- Transaction_Type = ‘Purchase’
+- Transaction_Value = NAV_Value * No_of_Units
 
 2. Count of successful transactions in the month of April - 2019
 
