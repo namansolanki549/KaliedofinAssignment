@@ -1,2 +1,2 @@
-create table customer_details(customer_id int auto_increment primary key, customer_name varchar(100), customer_pan varchar(100), banned boolean, customer_join_time date, gender enum('male','female')
+create table Customer_Details(Customer_ID int auto_increment primary key, Customer_Name varchar(100), Customer_PAN varchar(100), Banned boolean, Customer_Join_Time date, Gender enum('male','female')
 );
